@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: b10a86de4a2f8b845b861f117d385e76
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Charmander
+    100004: EndHead
+    100006: EndHips
+    100008: EndJaw
+    100010: EndLFingerA
+    100012: EndLFingerB2
+    100014: EndLFingerC2
+    100016: EndLFingerD2
+    100018: EndLFoot
+    100020: EndLHand
+    100022: EndLToe
+    100024: EndRFingerA
+    100026: EndRFingerB2
+    100028: EndRFingerC2
+    100030: EndRFingerD2
+    100032: EndRFoot
+    100034: EndRHand
+    100036: EndRToe
+    100038: EndTail6
+    100040: EndTailA03
+    100042: Head
+    100044: Hips
+    100046: Jaw
+    100048: LArm
+    100050: "LArm_\u30DD\u30FC\u30EB"
+    100052: LFingerA
+    100054: LFingerB1
+    100056: LFingerB2
+    100058: LFingerC1
+    100060: LFingerC2
+    100062: LFingerD1
+    100064: LFingerD2
+    100066: LFoot
+    100068: "LFoot_\u30B4\u30FC\u30EB"
+    100070: LForeArm
+    100072: LHand
+    100074: "LHand_\u30B4\u30FC\u30EB"
+    100076: LLeg
+    100078: LShoulder
+    100080: LThigh
+    100082: LToe
+    100084: Neck
+    100086: Origin
+    100088: pm0004_00
+    100090: RArm
+    100092: "RArm_\u30DD\u30FC\u30EB"
+    100094: RFingerA
+    100096: RFingerB1
+    100098: RFingerB2
+    100100: RFingerC1
+    100102: RFingerC2
+    100104: RFingerD1
+    100106: RFingerD2
+    100108: RFoot
+    100110: "RFoot_\u30B4\u30FC\u30EB"
+    100112: RForeArm
+    100114: RHand
+    100116: "RHand_\u30B4\u30FC\u30EB"
+    100118: RLeg
+    100120: RShoulder
+    100122: RThigh
+    100124: RToe
+    100126: Spine1
+    100128: Spine2
+    100130: Tail1
+    100132: Tail2
+    100134: Tail3
+    100136: Tail4
+    100138: Tail5
+    100140: Tail6
+    100142: "Tail6_\u30B4\u30FC\u30EB"
+    100144: TailA01
+    100146: TailA02
+    100148: TailA03
+    100150: Waist
+    400000: //RootNode
+    400002: Charmander
+    400004: EndHead
+    400006: EndHips
+    400008: EndJaw
+    400010: EndLFingerA
+    400012: EndLFingerB2
+    400014: EndLFingerC2
+    400016: EndLFingerD2
+    400018: EndLFoot
+    400020: EndLHand
+    400022: EndLToe
+    400024: EndRFingerA
+    400026: EndRFingerB2
+    400028: EndRFingerC2
+    400030: EndRFingerD2
+    400032: EndRFoot
+    400034: EndRHand
+    400036: EndRToe
+    400038: EndTail6
+    400040: EndTailA03
+    400042: Head
+    400044: Hips
+    400046: Jaw
+    400048: LArm
+    400050: "LArm_\u30DD\u30FC\u30EB"
+    400052: LFingerA
+    400054: LFingerB1
+    400056: LFingerB2
+    400058: LFingerC1
+    400060: LFingerC2
+    400062: LFingerD1
+    400064: LFingerD2
+    400066: LFoot
+    400068: "LFoot_\u30B4\u30FC\u30EB"
+    400070: LForeArm
+    400072: LHand
+    400074: "LHand_\u30B4\u30FC\u30EB"
+    400076: LLeg
+    400078: LShoulder
+    400080: LThigh
+    400082: LToe
+    400084: Neck
+    400086: Origin
+    400088: pm0004_00
+    400090: RArm
+    400092: "RArm_\u30DD\u30FC\u30EB"
+    400094: RFingerA
+    400096: RFingerB1
+    400098: RFingerB2
+    400100: RFingerC1
+    400102: RFingerC2
+    400104: RFingerD1
+    400106: RFingerD2
+    400108: RFoot
+    400110: "RFoot_\u30B4\u30FC\u30EB"
+    400112: RForeArm
+    400114: RHand
+    400116: "RHand_\u30B4\u30FC\u30EB"
+    400118: RLeg
+    400120: RShoulder
+    400122: RThigh
+    400124: RToe
+    400126: Spine1
+    400128: Spine2
+    400130: Tail1
+    400132: Tail2
+    400134: Tail3
+    400136: Tail4
+    400138: Tail5
+    400140: Tail6
+    400142: "Tail6_\u30B4\u30FC\u30EB"
+    400144: TailA01
+    400146: TailA02
+    400148: TailA03
+    400150: Waist
+    2100000: 'Material #34'
+    2100002: 'Material #35'
+    2100004: 'Material #36'
+    2100006: 'Material #37'
+    4300000: Charmander
+    7400000: CINEMA_4D____
+    9500000: //RootNode
+    13700000: Charmander
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0004_00_Body1
+    second: {fileID: 2800000, guid: b13b288c85454e14597fda3df8d91e4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0004_00_Eye1
+    second: {fileID: 2800000, guid: adfbce35966d1894ba6ce619109cdbcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0004_00_FireCoreA1
+    second: {fileID: 2800000, guid: 48ec99f745e816f49b1799649d8d78d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0004_00_FireStenA1
+    second: {fileID: 2800000, guid: 4ad416560d1fbb247b5f3456e3acd1ef, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

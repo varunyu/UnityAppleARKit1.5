@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 7183f4d3cb234a64ea7666687fb27679
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: chest
+    100002: head
+    100004: hip
+    100006: left_feet
+    100008: left_hand
+    100010: neck
+    100012: PikachuF
+    100014: //RootNode
+    100016: right_feet
+    100018: right_hand
+    100020: spine
+    100022: tail
+    100024: tail2
+    100026: "\u30B8\u30E7\u30A4\u30F3\u30C8"
+    100028: "\u30B8\u30E7\u30A4\u30F3\u30C8_1"
+    100030: "\u30B8\u30E7\u30A4\u30F3\u30C8_1_2"
+    100032: "\u30B8\u30E7\u30A4\u30F3\u30C8_2"
+    100034: "\u30B8\u30E7\u30A4\u30F3\u30C8_2_2"
+    100036: "\u30B8\u30E7\u30A4\u30F3\u30C8_2_3"
+    100038: "\u30B8\u30E7\u30A4\u30F3\u30C8_2_4"
+    100040: "\u30B8\u30E7\u30A4\u30F3\u30C8_3"
+    100042: "\u30B8\u30E7\u30A4\u30F3\u30C8_4"
+    100044: "\u30B8\u30E7\u30A4\u30F3\u30C8_4_2"
+    100046: "\u30B8\u30E7\u30A4\u30F3\u30C8_5"
+    100048: "\u30B8\u30E7\u30A4\u30F3\u30C8_6"
+    100050: "\u30EB\u30FC\u30C8"
+    400000: chest
+    400002: head
+    400004: hip
+    400006: left_feet
+    400008: left_hand
+    400010: neck
+    400012: PikachuF
+    400014: //RootNode
+    400016: right_feet
+    400018: right_hand
+    400020: spine
+    400022: tail
+    400024: tail2
+    400026: "\u30B8\u30E7\u30A4\u30F3\u30C8"
+    400028: "\u30B8\u30E7\u30A4\u30F3\u30C8_1"
+    400030: "\u30B8\u30E7\u30A4\u30F3\u30C8_1_2"
+    400032: "\u30B8\u30E7\u30A4\u30F3\u30C8_2"
+    400034: "\u30B8\u30E7\u30A4\u30F3\u30C8_2_2"
+    400036: "\u30B8\u30E7\u30A4\u30F3\u30C8_2_3"
+    400038: "\u30B8\u30E7\u30A4\u30F3\u30C8_2_4"
+    400040: "\u30B8\u30E7\u30A4\u30F3\u30C8_3"
+    400042: "\u30B8\u30E7\u30A4\u30F3\u30C8_4"
+    400044: "\u30B8\u30E7\u30A4\u30F3\u30C8_4_2"
+    400046: "\u30B8\u30E7\u30A4\u30F3\u30C8_5"
+    400048: "\u30B8\u30E7\u30A4\u30F3\u30C8_6"
+    400050: "\u30EB\u30FC\u30C8"
+    2100000: Material__160
+    2100002: Material__161
+    2100004: Material__162
+    2100006: Material__163
+    4300000: PikachuF
+    7400000: CINEMA_4D____
+    9500000: //RootNode
+    13700000: PikachuF
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_BodyA1
+    second: {fileID: 2800000, guid: f0bf60ef1a2a32b4e8281a5d2851c117, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_BodyB1
+    second: {fileID: 2800000, guid: 761d4730ec750244da920ad1ceea92b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_Eye1
+    second: {fileID: 2800000, guid: 222f399b42bbfbf42ae1bd6cc6b6f57d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_Mouth1
+    second: {fileID: 2800000, guid: 345375a1334106f489b3ab8d050e904c, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

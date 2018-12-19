@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 7dff658e2ac071e419dec623dcfe1214
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bulbasaur
+    100004: Bulbasaur_LVine
+    100006: Bulbasaur_RVine
+    100008: EndFeeler
+    100010: EndHead
+    100012: EndHips
+    100014: EndJaw
+    100016: EndLEar
+    100018: EndLFeelerC10
+    100020: "EndLFeelerC10_\u30B4\u30FC\u30EB"
+    100022: EndLFinger
+    100024: EndLFoot
+    100026: EndLHand
+    100028: EndLToe
+    100030: EndREar
+    100032: EndRFeelerC10
+    100034: "EndRFeelerC10_\u30B4\u30FC\u30EB"
+    100036: EndRFinger
+    100038: EndRFoot
+    100040: EndRHand
+    100042: EndRToe
+    100044: Feeler
+    100046: Head
+    100048: Hips
+    100050: Jaw
+    100052: LArm
+    100054: LEar
+    100056: LFeelerC01
+    100058: "LFeelerC01_\u30DD\u30FC\u30EB"
+    100060: LFeelerC02
+    100062: LFeelerC03
+    100064: LFeelerC04
+    100066: LFeelerC05
+    100068: LFeelerC06
+    100070: LFeelerC07
+    100072: LFeelerC08
+    100074: LFeelerC09
+    100076: LFeelerC10
+    100078: LFinger
+    100080: LFoot
+    100082: "LFoot_\u30B4\u30FC\u30EB"
+    100084: LForeArm
+    100086: LHand
+    100088: "LHand_\u30B4\u30FC\u30EB"
+    100090: LHips
+    100092: LLeg
+    100094: LShoulder
+    100096: LThigh
+    100098: LToe
+    100100: Origin
+    100102: pm0001_00
+    100104: RArm
+    100106: REar
+    100108: RFeelerC01
+    100110: "RFeelerC01_\u30DD\u30FC\u30EB"
+    100112: RFeelerC02
+    100114: RFeelerC03
+    100116: RFeelerC04
+    100118: RFeelerC05
+    100120: RFeelerC06
+    100122: RFeelerC07
+    100124: RFeelerC08
+    100126: RFeelerC09
+    100128: RFeelerC10
+    100130: RFinger
+    100132: RFoot
+    100134: "RFoot_\u30B4\u30FC\u30EB"
+    100136: RForeArm
+    100138: RHand
+    100140: "RHand_\u30B4\u30FC\u30EB"
+    100142: RHips
+    100144: RLeg
+    100146: RShoulder
+    100148: RThigh
+    100150: RToe
+    100152: Spine1
+    100154: Spine2
+    100156: Waist
+    400000: //RootNode
+    400002: Bulbasaur
+    400004: Bulbasaur_LVine
+    400006: Bulbasaur_RVine
+    400008: EndFeeler
+    400010: EndHead
+    400012: EndHips
+    400014: EndJaw
+    400016: EndLEar
+    400018: EndLFeelerC10
+    400020: "EndLFeelerC10_\u30B4\u30FC\u30EB"
+    400022: EndLFinger
+    400024: EndLFoot
+    400026: EndLHand
+    400028: EndLToe
+    400030: EndREar
+    400032: EndRFeelerC10
+    400034: "EndRFeelerC10_\u30B4\u30FC\u30EB"
+    400036: EndRFinger
+    400038: EndRFoot
+    400040: EndRHand
+    400042: EndRToe
+    400044: Feeler
+    400046: Head
+    400048: Hips
+    400050: Jaw
+    400052: LArm
+    400054: LEar
+    400056: LFeelerC01
+    400058: "LFeelerC01_\u30DD\u30FC\u30EB"
+    400060: LFeelerC02
+    400062: LFeelerC03
+    400064: LFeelerC04
+    400066: LFeelerC05
+    400068: LFeelerC06
+    400070: LFeelerC07
+    400072: LFeelerC08
+    400074: LFeelerC09
+    400076: LFeelerC10
+    400078: LFinger
+    400080: LFoot
+    400082: "LFoot_\u30B4\u30FC\u30EB"
+    400084: LForeArm
+    400086: LHand
+    400088: "LHand_\u30B4\u30FC\u30EB"
+    400090: LHips
+    400092: LLeg
+    400094: LShoulder
+    400096: LThigh
+    400098: LToe
+    400100: Origin
+    400102: pm0001_00
+    400104: RArm
+    400106: REar
+    400108: RFeelerC01
+    400110: "RFeelerC01_\u30DD\u30FC\u30EB"
+    400112: RFeelerC02
+    400114: RFeelerC03
+    400116: RFeelerC04
+    400118: RFeelerC05
+    400120: RFeelerC06
+    400122: RFeelerC07
+    400124: RFeelerC08
+    400126: RFeelerC09
+    400128: RFeelerC10
+    400130: RFinger
+    400132: RFoot
+    400134: "RFoot_\u30B4\u30FC\u30EB"
+    400136: RForeArm
+    400138: RHand
+    400140: "RHand_\u30B4\u30FC\u30EB"
+    400142: RHips
+    400144: RLeg
+    400146: RShoulder
+    400148: RThigh
+    400150: RToe
+    400152: Spine1
+    400154: Spine2
+    400156: Waist
+    2100000: 'Material #10'
+    2100002: 'Material #11'
+    2100004: 'Material #12'
+    2100006: 'Material #13'
+    2100008: 'Material #12.1'
+    2100010: 'Material #12.2'
+    4300000: Bulbasaur
+    4300002: Bulbasaur_LVine
+    4300004: Bulbasaur_RVine
+    7400000: CINEMA_4D____
+    9500000: //RootNode
+    13700000: Bulbasaur
+    13700002: Bulbasaur_LVine
+    13700004: Bulbasaur_RVine
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0001_00_BodyA1
+    second: {fileID: 2800000, guid: b430dd51beb351b4e85461c8b17d79a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0001_00_BodyB1
+    second: {fileID: 2800000, guid: 13bf49161b9c0e047bf04decdbcf4d6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0001_00_Eye1
+    second: {fileID: 2800000, guid: 8963d4e3a7c91cb46947142e9d21cb76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pm0001_00_Iris1
+    second: {fileID: 2800000, guid: 877f64d79ed30ae4c9ca78dcc4917af2, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
